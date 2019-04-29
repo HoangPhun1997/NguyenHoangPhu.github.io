@@ -75,7 +75,7 @@ z-index:1;
 max-width:100%;	
 }
 .home {
-background-image: url("/Users/nguyenhoangphu/Desktop/TEMPLATE4/template4-images/9.jpg");
+background-image: url("template4-images/9.jpg");
 max-width: 100%;
 height: 400px;
 background-position: center;
@@ -86,7 +86,7 @@ position:relative
 ;
 }
 .contact-img {
-background-image: url("/Users/nguyenhoangphu/Desktop/TEMPLATE4/template4-images/parallax3.jpg");
+background-image: url("template4-images/parallax3.jpg");
 max-width: 100%;
 height: 400px;
 background-position: center;
